@@ -98,7 +98,7 @@ $items = $db->query($selectQuery);
     </style>
   </head>
   <body>
-
+      <h1>coucou</h1>
     <!-- Navbar -->
     <header>
       <div class="navbar navbar-dark bg-dark shadow-sm">
